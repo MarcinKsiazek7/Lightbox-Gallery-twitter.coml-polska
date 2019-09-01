@@ -1,2 +1,2 @@
-# Lightbox-Gallery-twitter.coml-polska
+# Lightbox-Gallery twitter.com/polska
 Twitter.com/polska Gallery
